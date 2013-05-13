@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+html, body 
+{
+  background: url("../img/back2.png") repeat scroll 0 0 #D8DCCE;
+  padding-top: 20px;
+  height: 100%;
+  font-size: 16px;
+  font-family: 'American Typewriter',Georgia,sans-serif;
+}
+h1
+{
+ font-size: 26px;
+ }
+
+footer 
+{
+  color: #000000;
+  background: #D8D8D8;
+  padding: 10px 0 10px 0;
+  border-top: 1px solid #424242;
+}
+
+
+.container1 {
+
+background: url("../img/back1.png") repeat scroll 0 0 #D8DCCE;
+
+background-color: #D8D8D8   ;
+
+border:4px solid black;
+
+padding: 4px 6px 4px 6px ;
+
+}
+
+
+div.background
+  {
+  width:940px;
+  height:1800px;
+  background:url("../img/back3.png") repeat;
+  border:2px solid black;
+  }
+div.transbox
+  {
+  width:800px;
+  height:1700px;
+  margin:30px 50px;
+  background-color:#ffffff;
+  border:1px solid black;
+  opacity:0.6;
+  }
+div.transbox p
+  {
+  margin:30px 40px;
+  font-weight:bold;
+  color:#000000;
+  }
+
+
+
+div.background1
+  {
+  width:940px;
+  height:900px;
+  background:url("../img/back3.png") repeat;
+  border:2px solid black;
+  }
+div.transbox1
+  {
+  width:800px;
+  height:800px;
+  margin:30px 50px;
+  background-color:#ffffff;
+  border:1px solid black;
+  opacity:0.6;
+  }
+div.transbox1 p
+  {
+  margin:30px 40px;
+  font-weight:bold;
+  color:#000000;
+  }
+
+
+
+
+div.background2
+  {
+  width:940px;
+  height:1460px;
+  background:url("../img/back3.png") repeat;
+  border:2px solid black;
+  }
+div.transbox2
+  {
+  width:800px;
+  height:1340px;
+  margin:30px 50px;
+  background-color:#ffffff;
+  border:1px solid black;
+  opacity:0.6;
+  }
+div.transbox2 p
+  {
+  margin:30px 40px;
+  font-weight:bold;
+  color:#000000;
+  }
+
+
+
+
+
+
+
+ 
+/* LIST #4
+ */
+#list4 { 
+}
+#list3 ul { list-style-image: url("../img/bullet.png"); 
+color:#000000; font-size:1px; }
+#list3 ul li 
+{ line-height:3px; }
